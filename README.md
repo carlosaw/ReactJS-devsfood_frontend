@@ -2,10 +2,13 @@
 ## Módulo 10: Projeto: DevsFood
 
 # Instalar dependências
-## npm install
+`npm install`
 
-# Rodar o projeto
-## npm start
+### Run project
+`npm start`
+
+### Land Page
+[vercel](https://react-js-devsfood-frontend.vercel.app/) 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
